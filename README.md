@@ -15,7 +15,7 @@ Clone o repositório e instale as dependências:
 ```bash
 git clone https://github.com/paulohgola/bot.git
 cd bot
-npm install
+pip install -r requirements.txt
 ```
 
 ## Configuração
