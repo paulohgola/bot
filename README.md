@@ -23,7 +23,7 @@ pip install -r requirements.txt
 Crie um arquivo `.env` na raiz do projeto com o seguinte conteúdo:
 
 ```
-TELEGRAM_TOKEN=seu_token_aqui
+API_TOKEN=seu_token_aqui
 ```
 
 Substitua `seu_token_aqui` pelo token fornecido pelo BotFather.
